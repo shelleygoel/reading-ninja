@@ -1,0 +1,9 @@
+Python 3
+json
+pandas
+matplotlib
+scikit-learn
+numpy
+ipython
+jupyter 
+scipy
